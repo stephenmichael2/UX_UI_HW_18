@@ -1,0 +1,101 @@
+*{font-family: Arial, Helvetica, sans-serif;font-style: normal;}
+
+ul{ float: right;
+    list-style-type: none;
+    margin: 0;
+    padding: 0; display: inline-block;
+    vertical-align: text-bottom; font-weight: 400;
+    font-size: 25px;
+    line-height: 52px;
+    text-align: center;color: black;}
+
+div {width: 180px;
+    height: 216px;
+    left: 145px;
+    top: 7px;}
+
+h1{font-weight: 700;
+    font-size: 128px;
+    line-height: 218px;
+    text-align: center; color: black;}
+
+h2{font-weight: 600;
+    font-size: 75px;
+    line-height: 128px;
+    text-align: center;color: black;}
+
+h3{font-weight: 400;
+    font-size: 48px;
+    line-height: 82px;
+    text-align: center;color: black;} 
+
+.figma img{float: left;
+    width: 25%;
+    width: 129px;
+    height: 197px;
+    left: 296px;
+    top: 1852px;}
+
+.adobe img{float: left;
+    width: 25%;
+    width: 195px;
+    height: 197px;
+    left: 519px;
+    top: 1852px;}
+
+.miro img{float:left;
+    width:25%;
+    width: 297px;
+    height: 256px;
+    left: 813px;
+    top: 1813px;}
+
+.drive img{float: left;
+    width: 25%;
+    width: 204px;
+    height: 185px;
+    left: 1172px;
+    top: 1848px;}
+    
+.gamify img{float: left;
+    width: 50%;
+    width: 713px;
+    height: 590px;
+    left: 146px;
+    top: 2143px;}
+
+.CWSDS img{float: left; width:50%;
+    width: 713px;
+    height: 590px;
+    left: 870px;
+    top: 2143px;}
+
+.adv h1{font-weight: 700;
+    font-size: 75px;
+    line-height: 128px;
+    text-align: center;}
+
+.footer h1{font-weight: 600;
+    font-size: 36px;
+    line-height: 61px;
+    text-align: center;}
+
+.footer2 h1{font-weight: 600;
+    font-size: 36px;
+    line-height: 61px;
+    text-align: center;}
+
+.portrait img{
+    width: 568px;
+    height: 590px;
+    left: 146px;
+    top: 1202px;}
+
+.bio p{font-weight: 400;
+    font-size: 30px;
+    line-height: 51px;}
+
+.bio button  {font-weight: 600;
+    font-size: 32px;
+    line-height: 55px;
+    text-align: center;}
